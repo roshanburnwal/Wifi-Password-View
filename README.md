@@ -1,6 +1,8 @@
 # Wifi-Password-View
-Wifi-Password-View 
+<br>
+<br>
 
+WirelessKeyView आपके कंप्यूटर में संग्रहीत सभी वायरलेस नेटवर्क सुरक्षा कुंजी / पासवर्ड (WEP / WPA) को Windows XP की 'वायरलेस शून्य कॉन्फ़िगरेशन' सेवा या Windows Vista, Windows 7, Windows 8, Windows 10 की 'WLAN AutoConfig' सेवा द्वारा पुनर्प्राप्त करता है, और विंडोज सर्वर 2008. यह आपको सभी कुंजी को टेक्स्ट / एचटीएमएल / एक्सएमएल फ़ाइल में आसानी से सहेजने की अनुमति देता है, या क्लिपबोर्ड पर एक सिंगल कुंजी कॉपी करता है। आप अपनी वायरलेस कुंजी को फ़ाइल में भी निर्यात कर सकते हैं और इन चाबियों को किसी अन्य कंप्यूटर में आयात कर सकते हैं।
 
 <img src="https://4.bp.blogspot.com/-hCTxqxElGG0/W9RbjRkcAtI/AAAAAAAAAmY/zcKBbtD8LmUZqkqWwPjv3h81iUzxB9OlwCK4BGAYYCw/s1600/1.PNG;s=250" title="FVCproductions" alt="FVCproductions" style="max-width:100%;">
 
