@@ -22,4 +22,4 @@ WirelessKeyView आपके कंप्यूटर में संग्र�
 
 <h1><i><u>WiFi Password View Video Tutorial</u></i></h1>
 
-<a href="https://youtu.be/0n4wPr8kdc0" rel="nofollow"><img src="https://i9.ytimg.com/vi/0n4wPr8kdc0/hqdefault.jpg?sqp=CIzh0d4F&rs=AOn4CLDjpvhSkhxOV8TOWQSQI5CBIkH5QQ" data-canonical-src="https://i9.ytimg.com/vi/0n4wPr8kdc0/hqdefault.jpg?sqp=CIzh0d4F&rs=AOn4CLDjpvhSkhxOV8TOWQSQI5CBIkH5QQ" style="max-width:100%;"></a>
+<a href="https://youtu.be/0n4wPr8kdc0" rel="nofollow"><img src="https://i.ytimg.com/vi/0n4wPr8kdc0/hqdefault.jpgsqp=CIzh0d4F&rs=AOn4CLDjpvhSkhxOV8TOWQSQI5CBIkH5QQ" data-canonical-src="https://i9.ytimg.com/vi/0n4wPr8kdc0/hqdefault.jpg?sqp=CIzh0d4F&rs=AOn4CLDjpvhSkhxOV8TOWQSQI5CBIkH5QQ" style="max-width:100%;"></a>
